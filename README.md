@@ -1,7 +1,10 @@
 # stepik_autotest_tasks
 Repo for source code based on stepik testing automation cource
 
-python 
+software version and env:
+win10x64
+python 3.6.8
+pytest 6.2.1
 
 # запуск теста
 доступные параметры:
